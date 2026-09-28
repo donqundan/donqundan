@@ -12,7 +12,7 @@
   </table>
 
   <div>
-  <img src="image.gif" alt="动图" />
+     <img src="image.gif" alt="image" />
   </div>
 
 </div>
