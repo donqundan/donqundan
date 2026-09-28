@@ -1,20 +1,4 @@
 <div align="center">
-
-  <div id="tech-stack">
-    <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/>
-  </div>
-
-  <div id="socials">
-    <a href="https://space.bilibili.com/3461580752685539" target="_blank">
-      <img src="https://img.shields.io/badge/Bilibili-%2300A1D6.svg?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"/>
-    </a>
-    <a href="https://t.me/Adimisra6717" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
   </div>
 
@@ -26,16 +10,7 @@
 
   <br/>
 
-  <table width="100%" align="center">
-    <tr>
-      <td colspan="3" align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <picture>
-            <source srcset="https://github-readme-stats-fast.vercel.app/api?username=CodeCubist&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark" media="(prefers-color-scheme: dark)" />
-            <source srcset="https://github-readme-stats-fast.vercel.app/api?username=CodeCubist&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img src="https://github-readme-stats-fast.vercel.app/api?username=CodeCubist&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
-          </picture>
-        </a>
+  
       </td>
     </tr>
   </table>
