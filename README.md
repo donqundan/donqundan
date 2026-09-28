@@ -41,7 +41,7 @@
   </table>
 
   <div>
-    <img src="image.gif" alt="image" />
+    <img src="image.png" alt="image" />
   </div>
 
 </div>
