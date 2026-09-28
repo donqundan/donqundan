@@ -9,14 +9,10 @@
   </a>
 
   <br/>
-
-  
-      </td>
-    </tr>
   </table>
 
   <div>
-    <img src="image.png" alt="image" />
+  <img src="animated.gif" alt="动图" />
   </div>
 
 </div>
